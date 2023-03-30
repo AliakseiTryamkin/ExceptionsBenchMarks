@@ -1,0 +1,2 @@
+JMH S 42 org.example.performance.ExceptionBenchmark S 84 org.example.performance.jmh_generated.ExceptionBenchmark_doNotThrowException_jmhTest S 19 doNotThrowException S 11 AverageTime E A 1 1 1 E I 1 2 E E I 2 10 E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 48 org.example.performance.StackTraceConstructBench S 85 org.example.performance.jmh_generated.StackTraceConstructBench_exception_0032_jmhTest S 14 exception_0032 S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 5 E E E E E E U 11 NANOSECONDS E E 
